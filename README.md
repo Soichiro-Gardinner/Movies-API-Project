@@ -1,2 +1,2 @@
-# Sakila-Core-
-Sakila Core Project
+# Movies Project-(Core)
+
